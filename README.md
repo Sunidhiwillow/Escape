@@ -15,7 +15,7 @@ You will need the following prerequisites to play this game!
 
 These libraries aren't available by default. But you can download it using the "pip" commands
 
-The game downloaded from: https://shri-874.itch.io/escape
+The game downloaded from: https://s-arizona.itch.io/prisoner
 You can find images of the game here as well.
 
 # Controls:
